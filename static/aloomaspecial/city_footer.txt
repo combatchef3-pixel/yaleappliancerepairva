@@ -1,0 +1,48 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How much does a typical washer or dryer repair cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The washer repair cost or dryer fix price depends on the specific parts needed. We provide transparent, upfront estimates after a diagnostic, so you aren't surprised by the final bill.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is it better to repair or replace my laundry machine?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most modern machines are built to last 10–15 years. If your unit is less than 8 years old, a laundry machine repair is almost always the more cost-effective and eco-friendly choice.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you service all brands in the United States?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we provide nationwide support for almost every major manufacturer, including Samsung, LG, Whirlpool, Maytag, GE, Kenmore, Amana, and Frigidaire.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Why is my dryer making a high-pitched squealing noise?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">This is usually a sign that you need a whirlpool dryer drive belt replacement or new idler pulleys. We recommend stopping the machine immediately to prevent further damage to the motor.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer a warranty on your repairs?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We stand behind our work with a comprehensive warranty on both parts and labor, ensuring your dryer fixed near me search results in long-term peace of mind.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-204-1390">Click Here To Call Us (820) 204-1390</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
